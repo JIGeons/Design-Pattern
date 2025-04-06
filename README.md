@@ -32,24 +32,24 @@
 
 ---
 
-## 💻 폴더 구조 예시
-📁 design-pattern/ 
-│ 
-├── Object-Oriented Programming/
-│ ├── 4가지 핵심 개념/
-│ │ ├── car.encapsulation.ts 
-│ │ ├── car.inheritance.ts 
-│ │ ├── car.abstraction.ts 
-│ │ └── car.polymorphism.ts 
-│ │
-│ └── SOLID 원칙/
-│   ├── srp.ts 
-│   ├── ocp.ts 
-│   ├── lsp.ts 
-│   ├── isp.ts 
-│   └── dip.ts 
-│ 
-└── README.md
+## 💻 폴더 구조 예시 <br>
+📁 design-pattern/ <br>
+│ <br>
+├── Object-Oriented Programming/ <br>
+│ ├── 4가지 핵심 개념/ <br>
+│ │ ├── car.encapsulation.ts <br>
+│ │ ├── car.inheritance.ts <br>
+│ │ ├── car.abstraction.ts <br>
+│ │ └── car.polymorphism.ts <br>
+│ │<br>
+│ └── SOLID 원칙/ <br>
+│   ├── srp.ts <br>
+│   ├── ocp.ts <br>
+│   ├── lsp.ts <br>
+│   ├── isp.ts <br>
+│   └── dip.ts <br>
+│ <br>
+└── README.md <br>
 
 
 ---
