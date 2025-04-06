@@ -41,7 +41,7 @@
 │ │ ├── car.inheritance.ts <br>
 │ │ ├── car.abstraction.ts <br>
 │ │ └── car.polymorphism.ts <br>
-│ │<br>
+│ │ <br>
 │ └── SOLID 원칙/ <br>
 │   ├── srp.ts <br>
 │   ├── ocp.ts <br>
